@@ -1,0 +1,10 @@
+{
+	"name": "TinyMCE Editor",
+	"description": "HTML Editor(TinyMCE WYSIWYG)",
+	"version": "1.0",
+	"date": "2023-01-20",
+	"author": "Thalles Tutoriais",
+	"author_uri": "https://www.youtube.com/VideosTutoriais",
+	"license": "GPLv2",
+	"min_q2a": "1.3"
+}
